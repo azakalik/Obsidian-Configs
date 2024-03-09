@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "9e6e468e699d06de",
+    "type": "split",
+    "children": [
+      {
+        "id": "00ab6b28fbe94125",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9a226ed5629558f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cursada-Redes/Practica/Notas 7-3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a7446649b7e910c",
+    "type": "split",
+    "children": [
+      {
+        "id": "54e7a32a7f6661ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc340d19e861b35d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9b359871e3f1526a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "112232782fc5801a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 290.5
+  },
+  "right": {
+    "id": "385355c112ea812d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c82cf2f93c0b0cc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5766aad60509ec03",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cursada-Redes/Practica/Notas 7-3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "04774117467193a2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cursada-Redes/Practica/Notas 7-3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b32f8cf7e35ee872",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8dc8bdbe60064bc4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cursada-Redes/Practica/Notas 7-3.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bc340d19e861b35d",
+  "lastOpenFiles": [
+    "Obsidian-Configs/README.md",
+    "Obsidian-Configs",
+    "Cursada-Redes/Practica/Practica 1.pdf",
+    "Cursada-Redes/Practica/Notas 7-3.md",
+    "Cursada-Redes/attachments/Pasted image 20240307201020.png",
+    "Cursada-Redes/attachments/Pasted image 20240307201501.png",
+    "Cursada-Redes/attachments",
+    "Cursada-Redes/Practica/Practica 2.pdf",
+    "Cursada-Redes/Practica/Practica 1test.pdf",
+    "Cursada-Redes/Practica/Respuestas Practica 1.md",
+    "Cursada-Redes/Practica/Untitled.md",
+    "Cursada-Redes/Clase 1 - Tipos de Vinculos.pdf",
+    "Cursada-Redes/Practica/annots.md",
+    "Cursada-Redes/Practica/Annotations.md",
+    "Cursada-Redes/Practica",
+    "Cursada-Redes/RED Clase 1 - Tipos de Vinculos.pdf",
+    "Cursada-Redes"
+  ]
+}
